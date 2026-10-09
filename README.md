@@ -178,7 +178,7 @@
 
 ### Вариант 1. Google Colab
 1. Открыть [colab.research.google.com](https://colab.research.google.com)
-2. **File → Upload notebook** → `wine_audit_safari.ipynb`
+2. **File → Upload notebook** → `wine_audit-2.ipynb`
 3. **Runtime → Run all**
 
 ### Вариант 2. Локально
